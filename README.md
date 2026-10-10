@@ -1,0 +1,1 @@
+# owasp-kansai-202610-password-reset-lt
